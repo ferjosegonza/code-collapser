@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+24/04/2025
+Lo último q mostró la terminal cuando terminé de instalar y configurar la nva extensión:
+
+added 241 packages, and audited 242 packages in 40s
+
+60 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+Your extension code-collapser has been created!
+
+To start editing with Visual Studio Code, use the following commands:
+
+     code code-collapser
+
+Open vsc-extension-quickstart.md inside the new extension for further instructions
+on how to modify, test and publish your extension.
+
+For more information, also visit http://code.visualstudio.com and follow us @code.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
