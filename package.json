@@ -13,9 +13,18 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "code-collapser.helloWorld",
-      "title": "Hello World"
-    }]
+      "command": "extension.collapseBlock",
+      "title": "Collapse Code Block",
+      "category": "Editor"
+    }],
+    "keybindings": [
+        {
+          "command": "extension.collapseBlock",
+          "key": "ctrl+alt+shift+c",
+          "mac": "cmd+alt+shift+c",
+          "when": "editorTextFocus"
+        }
+      ]
   },
   "scripts": {
     "lint": "eslint .",
